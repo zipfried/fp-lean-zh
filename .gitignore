@@ -3,3 +3,5 @@ functional-programming-lean/book
 *#
 .#*
 
+.lake/
+lake-manifest.json

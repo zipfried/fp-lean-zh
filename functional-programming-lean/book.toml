@@ -1,9 +1,9 @@
 [book]
 authors = ["David Thrane Christiansen"]
-language = "en"
+language = "zh"
 multilingual = false
 src = "src"
-title = "Functional Programming in Lean"
+title = "Lean 函数式编程"
 
 [build]
 
